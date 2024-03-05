@@ -9,7 +9,9 @@ Welcome to my GitHub profile! 🚀
 📫 Connect with me:
 
 LinkedIn: https://www.linkedin.com/in/kutlwano-ramotebele-769461296/
+
 Email: kutlwano.ramotebele@gmail.com
+
 Let's code and learn together! 💬✨
 
 <!--
