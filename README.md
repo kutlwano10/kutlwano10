@@ -6,6 +6,10 @@ Welcome to my GitHub profile! 🚀
 
 🔍 Explore my projects and journey as I grow in the world of software development 🌱
 
+💻 | Expert in HTML, CSS, Tailwind, Bootstrap, JavaScript, and Node.js. 
+
+🌐 | Crafting stunning websites with flair and precision. 
+
 📫 Connect with me:
 
 LinkedIn: https://www.linkedin.com/in/kutlwano-ramotebele-769461296/
